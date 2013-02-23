@@ -1,14 +1,14 @@
 <?PHP
 
 /*
-
 Plugin Name: Keyword replace
-description: add licensing info to a Wordpress blog or post
-Version: 0.1
+description: Allows you to automatically replace all category keywords in posts with a link to the category page. The plugin can also replace keywords with links to associated pages.
+Version: 0.2
 Author: pgogy
+Plugin URI: http://www.pgogy.com and http://www.pgogy.com/code/groups/wordpress/keyword-replace/
 Author URI: http://www.pgogy.com
-
 */
+
 
 class keyword_replace{
 
